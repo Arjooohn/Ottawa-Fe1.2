@@ -6,9 +6,9 @@ import Template from "./components/Template";
 import Nav from "./components/navbar/Nav";
 import Footer from "./components/footer/Footer";
 import Map from "./components/pages/map/Map";
-import States from "./components/pages/states/States";
+import States from "./components/pages/Yabut Page/States";
 import Effect from "./components/pages/useEffect/Effect";
-import Hooks from "./components/pages/hooks/Hooks";
+import Hooks from "./components/pages/Samson Page/Hooks";
 import Error from "./components/pages/error/Error";
 
 import './App.css';

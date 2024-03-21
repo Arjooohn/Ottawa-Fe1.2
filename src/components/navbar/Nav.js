@@ -12,7 +12,7 @@ function Nav() {
             <div className="left">
                 <ul>
                     <li>
-                    <Link to="/states" className="link">States</Link>
+                    <Link to="/states" className="link">Yabut</Link>
                     </li>
                     <li>
                     <Link to="/effect" className="link">Effect</Link>
