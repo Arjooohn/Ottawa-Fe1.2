@@ -29,7 +29,7 @@ function App() {
             <Route path="/effect" element={<Effect />} />
             <Route path="/map" element={<Map />} />
             <Route path="/hooks" element={<Hooks />} />
-            <Route path="*" element={<Error />} />
+            <Route path="/error" element={<Error />} />
           </Route>
         </Routes>
 
