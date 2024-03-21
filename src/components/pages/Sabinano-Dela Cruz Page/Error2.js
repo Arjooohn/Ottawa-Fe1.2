@@ -4,7 +4,7 @@ import "./errorstyles.css"
 function Error2() {
   return (
     <div className="content">
-      <h2>Name - Student Number 4</h2>
+      <h2>Kurt Lawrence M. Dela Cruz - 2021104161</h2>
     </div>
   )
 }
