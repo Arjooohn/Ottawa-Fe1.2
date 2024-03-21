@@ -5,6 +5,7 @@ import { useState, useEffect } from "react";
 
 import "./effectstyles.css"
 
+// Ola Page
 function Effect() {
   // using the useState hook to create a state variable for user chosen color
   const [counter, setCounter] = useState(0);
@@ -30,18 +31,8 @@ function Effect() {
   return (
     <div className="content">
 
-      <h1>Counter: {counter}</h1>
-      <h2>UseEffect Hooks for dynamic counter</h2>
-      <h3>Current Counter Increment: {counterIncrement}</h3>
-
-      <div className="button-container">
-        <button onClick={() => setCounter(0)}>Reset</button>
-        <button onClick={() => setCounterIncrement(1)}>1</button>
-        <button onClick={() => setCounterIncrement(10)}>10</button>
-        <button onClick={() => setCounterIncrement(50)}>50</button>
-        <button onClick={() => setCounterIncrement(100)}>100</button>
-      </div>
-
+      <h1>Name - Student Number 1</h1>
+      
     </div>
   )
 }

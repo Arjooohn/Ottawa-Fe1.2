@@ -5,11 +5,13 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Template from "./components/Template";
 import Nav from "./components/navbar/Nav";
 import Footer from "./components/footer/Footer";
-import Map from "./components/pages/map/Map";
+import Map from "./components/pages/Wenceslao Page/Map";
 import States from "./components/pages/Yabut Page/States";
-import Effect from "./components/pages/useEffect/Effect";
+import Effect from "./components/pages/Ola Page/Effect";
 import Hooks from "./components/pages/Samson Page/Hooks";
-import Error from "./components/pages/error/Error";
+import Error from "./components/pages/Sabinano-Dela Cruz Page/Error";
+import Error2 from "./components/pages/Sabinano-Dela Cruz Page/Error2";
+
 
 import './App.css';
 

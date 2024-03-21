@@ -15,16 +15,21 @@ function Nav() {
                     <Link to="/states" className="link">Yabut</Link>
                     </li>
                     <li>
-                    <Link to="/effect" className="link">Effect</Link>
+                        {/* Effect  */}
+                    <Link to="/effect" className="link">Ola</Link>
                     </li>
                     <li>
-                        <Link to="/map" className="link">Map</Link>
+                        {/* Map */}
+                        <Link to="/map" className="link">Wenceslao</Link>
                     </li>
                     <li>
                         <Link to="/hooks" className="link">Samson</Link>
                     </li>
                     <li>
-                        <Link to="/error" className="link">Hooks</Link>
+                        <Link to="/error" className="link">Sabinano</Link>
+                    </li>
+                    <li>
+                        <Link to="/error2" className="link">Dela Cruz</Link>
                     </li>
                 </ul>
             </div>

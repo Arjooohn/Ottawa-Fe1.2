@@ -3,7 +3,9 @@ import "./errorstyles.css"
 
 function Error() {
   return (
-    <div className="content">This is an error page</div>
+    <div className="content">
+      <h2>Name - Student Number 3</h2>
+    </div>
   )
 }
 
