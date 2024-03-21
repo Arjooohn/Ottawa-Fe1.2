@@ -11,18 +11,7 @@ function States() {
 
   return (
     <div className="content" style={{ backgroundColor: color }}>
-      
-
-      <h2>Change the bg color using React States</h2>
-      <h3>Current Color: {color}</h3>
-
-      <div className="button-container">
-        <button onClick={() => setColor("white")}>White</button>
-        <button onClick={() => setColor("yellow")}>Yellow</button>
-        <button onClick={() => setColor("cyan")}>Cyan</button>
-        <button onClick={() => setColor("teal")}>Teal</button>
-      </div>
-
+      <h2>John Armand V. Yabut - 2021102021</h2>
     </div>
   )
 }
