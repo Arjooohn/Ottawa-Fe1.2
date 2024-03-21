@@ -30,6 +30,7 @@ function App() {
             <Route path="/map" element={<Map />} />
             <Route path="/hooks" element={<Hooks />} />
             <Route path="/error" element={<Error />} />
+            <Route path="/error2" element={<Error2 />} />
           </Route>
         </Routes>
 
