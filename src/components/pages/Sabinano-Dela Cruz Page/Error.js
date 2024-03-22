@@ -4,7 +4,7 @@ import "./errorstyles.css"
 function Error() {
   return (
     <div className="content">
-      <h2>Name - Student Number 3</h2>
+      <h2>Sabiñano, Rochelly Miquel D. - 2021101171</h2>
     </div>
   )
 }
