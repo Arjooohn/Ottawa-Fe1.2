@@ -31,7 +31,7 @@ function Effect() {
   return (
     <div className="content">
 
-      <h1>Name - Student Number 1</h1>
+      <h1>Gianne Carlo N. Ola - 2021101267</h1>
       
     </div>
   )
