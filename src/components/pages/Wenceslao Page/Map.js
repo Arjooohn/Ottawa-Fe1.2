@@ -5,7 +5,7 @@ import "./mapstyles.css"
 function Map() {
   return (
     <div className="content">
-      <h2>Name - Student Number 2</h2>
+      <h2>Joseph S. Wenceslao - 2021100354</h2>
     </div>
   )
 }
